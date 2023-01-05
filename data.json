@@ -1,0 +1,333 @@
+[
+    {
+        "label": "Email",
+        "value": "Email",
+        "subTypeValues": [
+            "1:1 Email",
+            "AE HandOff",
+            "Demo Request",
+            "Event",
+            "Follow-up",
+            "Outreach Sequence",
+            "Proposal",
+            "Renewal",
+            "Sent Service Order",
+            "Trial Signup",
+            "WYWN"
+        ]
+    },
+    {
+        "label": "Call",
+        "value": "Call",
+        "subTypeValues": [
+            "Account Management",
+            "Call - No Answer",
+            "Connect",
+            "Demo",
+            "Discovery",
+            "LVM",
+            "Optimization",
+            "Qualification"
+        ]
+    },
+    {
+        "label": "Meeting",
+        "value": "Meeting",
+        "subTypeValues": [
+            "AE HandOff",
+            "Business Review",
+            "Demo",
+            "Discovery",
+            "General Meeting",
+            "Onsite Meeting",
+            "Optimization",
+            "Qualification",
+            "Renewal Meeting",
+            "Solution Review"
+        ]
+    },
+    {
+        "label": "PA-Developer",
+        "value": "Pa-Developer",
+        "subTypeValues": [
+            "Internal Meetings (Team,Mentorship,Interviews)",
+            "Customer Calls Meetings",
+            "Internal Calls / Meetings",
+            "Project Work (Asset Creation)",
+            "Opportunity Work",
+            "Professional Development",
+            "SME Work",
+            "Solution Development"
+        ]
+    },
+    {
+        "label": "PA-Post-Sales",
+        "value": "PA-Post-Sales",
+        "subTypeValues": [
+            "Internal Meetings (Team,Mentorship,Interviews)",
+            "Customer Calls Meetings",
+            "Demo",
+            "Discovery",
+            "Internal Calls / Meetings",
+            "Project Work (Asset Creation)",
+            "Opportunity Work",
+            "Professional Development",
+            "SME Work",
+            "Solution Development"
+        ]
+    },
+    {
+        "label": "PA-Pre-Sales",
+        "value": "PA-Pre-Sales",
+        "subTypeValues": [
+            "Internal Meetings (Team,Mentorship,Interviews)",
+            "Customer Calls Meetings",
+            "Demo",
+            "Demo Dry Run",
+            "Discovery",
+            "Internal Calls / Meetings",
+            "Project Work (Asset Creation)",
+            "Marketing Event Support",
+            "Opportunity Work",
+            "POC Work",
+            "Professional Development",
+            "Rfx/Security",
+            "SME Work",
+            "Pilot Work"
+        ]
+    },
+    {
+        "label": "Social Messaging",
+        "value": "Social Messaging",
+        "subTypeValues": [
+            "Account Management",
+            "Discovery",
+            "LinkedIn InMail",
+            "LinkedIn Interact with Post",
+            "LinkedIn Send Connection Request",
+            "LinkedIn View Profile",
+            "Optimization",
+            "Qualification",
+            "Renewal"
+        ]
+    },
+    {
+        "label": "SC Activity",
+        "value": "SC Activity",
+        "subTypeValues": [
+            "Internal Meetings (Team,Mentorship,Interviews)",
+            "Customer Meeting (non-demo)",
+            "Demo",
+            "Demo Build",
+            "Demo Dry Run",
+            "Discovery",
+            "Project Work (Asset Creation)",
+            "Marketing Event Support",
+            "Opportunity Work",
+            "Partner Update",
+            "Partner Enablement",
+            "Partner Webinar",
+            "POC Work",
+            "Professional Development",
+            "Rfx/Security",
+            "SME Work",
+            "Post-Sales Support",
+            "Pilot Work",
+            "Trial Support"
+        ]
+    },
+    {
+        "label": "CX Practice",
+        "value": "CX Practice",
+        "subTypeValues": [
+            "Client Account management/Support - EBR/EBC",
+            "Client Meeting - Executive Support",
+            "Client Presentation - Business Case",
+            "Client Sharing - CX Advisory / Best Practice",
+            "CX Assessment Full",
+            "CX assessment Light",
+            "Internal Enablement",
+            "Internal Meeting - Account strategy / Team",
+            "Internal Preparation work / Individual",
+            "Marketing event - Support - Present for lead generation",
+            "VIP Support"
+        ]
+    },
+    {
+        "label": "Other",
+        "value": "Other",
+        "subTypeValues": [
+            "Account Validated",
+            "POC Work",
+            "Rfx/Security",
+            "Pilot Work",
+            "Trial Support",
+            "Zendesk Ticket"
+        ]
+    },
+    {
+        "label": "Partner SC Activity",
+        "value": "Partner SC Activity",
+        "subTypeValues": [
+            "Internal Meetings (Team,Mentorship,Interviews)",
+            "Demo Build",
+            "Partner Community Engagement",
+            "Partner Demo",
+            "Partner Meetings",
+            "Partner Update",
+            "Partner Projects",
+            "Partner Recruiting",
+            "Partner Roadmap Issues",
+            "Partner Sales Calls",
+            "Partner Solutioning",
+            "Partner Enablement",
+            "Partner Webinar"
+        ]
+    },
+    {
+        "label": "TT - EEL Activity",
+        "value": "TT - EEL Activity",
+        "subTypeValues": [
+            "Admin - Company Events",
+            "Admin - Internal Meetings",
+            "Admin - Internal Projects",
+            "Admin - Interviews",
+            "Admin - Professional Development/ Training",
+            "Implementation",
+            "Post-Launch",
+            "Presales Discovery",
+            "Presales PoC/Pilot",
+            "Presales Solution Design",
+            "Presales SOW Work"
+        ]
+    },
+    {
+        "label": "TT - PGM Activity",
+        "value": "TT - PGM Activity",
+        "subTypeValues": [
+            "Admin - Company Events",
+            "Admin - Internal Meetings",
+            "Admin - Internal Projects",
+            "Admin - Interviews",
+            "Admin - Professional Development/ Training",
+            "Implementation",
+            "Post-Launch",
+            "Presales Discovery",
+            "Presales PoC/Pilot",
+            "Presales Solution Design",
+            "Presales SOW Work"
+        ]
+    },
+    {
+        "label": "TT - TA Activity",
+        "value": "TT - TA Activity",
+        "subTypeValues": [
+            "Admin - Company Events",
+            "Admin - Internal Meetings",
+            "Admin - Internal Projects",
+            "Admin - Interviews",
+            "Admin - Professional Development/ Training",
+            "Implementation",
+            "Post-Launch",
+            "Presales Discovery",
+            "Presales PoC/Pilot",
+            "Presales Solution Design",
+            "Presales SOW Work"
+        ]
+    },
+    {
+        "label": "TT - SA Activity",
+        "value": "TT - SA Activity",
+        "subTypeValues": [
+            "Admin - Company Events",
+            "Admin - Internal Meetings",
+            "Admin - Internal Projects",
+            "Admin - Interviews",
+            "Admin - Professional Development/ Training",
+            "Implementation",
+            "Post-Launch",
+            "Presales Discovery",
+            "Presales PoC/Pilot",
+            "Presales Solution Design",
+            "Presales SOW Work"
+        ]
+    },
+    {
+        "label": "TT - Strategic Technical Activity",
+        "value": "TT - Strategic Technical Activity",
+        "subTypeValues": [
+            "Admin - Company Events",
+            "Admin - Internal Meetings",
+            "Admin - Internal Projects",
+            "Admin - Interviews",
+            "Admin - Professional Development/ Training",
+            "Implementation",
+            "Post-Launch",
+            "Presales Discovery",
+            "Presales PoC/Pilot",
+            "Presales Solution Design",
+            "Presales SOW Work"
+        ]
+    },
+    {
+        "label": "CX Lite Assessment",
+        "value": "CX Lite Assessment",
+        "subTypeValues": []
+    },
+    {
+        "label": "CX Full Assessment",
+        "value": "CX Full Assessment",
+        "subTypeValues": []
+    },
+    {
+        "label": "CX Maturity Assessment",
+        "value": "CX Maturity Assessment",
+        "subTypeValues": []
+    },
+    {
+        "label": "CX Full + CX Value Assessment",
+        "value": "CX Full + CX Value Assessment",
+        "subTypeValues": []
+    },
+    {
+        "label": "Executive Support",
+        "value": "Executive Support",
+        "subTypeValues": []
+    },
+    {
+        "label": "Technical Guidance & Strategy",
+        "value": "Technical Guidance & Strategy",
+        "subTypeValues": []
+    },
+    {
+        "label": "CX Strategy",
+        "value": "CX Strategy",
+        "subTypeValues": [
+            "CX Assessment Full",
+            "Business Case",
+            "CX Assessment Lite",
+            "CX Guidance",
+            "CX Enablement"
+        ]
+    },
+    {
+        "label": "POD Engagement",
+        "value": "POD Engagement",
+        "subTypeValues": []
+    },
+    {
+        "label": "Strategic Technical Team",
+        "value": "Strategic Technical Team",
+        "subTypeValues": []
+    },
+    {
+        "label": "TT SC Activity",
+        "value": "TT SC Activity",
+        "subTypeValues": []
+    },
+    {
+        "label": "Strategic Engagement",
+        "value": "Strategic Engagement",
+        "subTypeValues": []
+    }
+]
